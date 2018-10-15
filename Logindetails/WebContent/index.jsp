@@ -19,19 +19,19 @@
 <div class="w3-container w3-black">
 <div class="row" style="background:black">
 <div class="col-sm-2">
-Info
+<p>Info<p>
 </div>
 <div class="col-sm-2">
-Site Map
+<p>ite Map<p>
 </div>
 <div class="col-sm-3">
-<b>Services</b>
+	<b><p>Services</p></b>
 </div>
 <div class="col-sm-3">
-Contact Us
+	<p>Contact Us</p>
 </div>
 <div class="col-sm-2">
- <div class="col-sm-1">Welcome   
+	<div class="col-sm-1"><p>Welcome   </p>
 <div class="col-sm-1">
      <span class="glyphicon glyphicon-log-out"></span>
 </div>
