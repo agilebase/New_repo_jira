@@ -8,12 +8,12 @@
 </head>
 <style>
 a {
-font-size:24px;
+font-size:26px;
 }
 </style>
 <body style="background-color:Darksalmon">
 <h1>Welcome home!</h1>
-<a href="/logindetails/index.jsp" style="text-decoration: none; font-size=24px"> Go to info page</a>
+<a href="/logindetails/index.jsp" style="text-decoration: none; font-size=26px"> Go to info page</a>
 <img src="user.jpg" alt="User Info">
 
 </body>
