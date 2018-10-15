@@ -12,6 +12,12 @@
 </head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+	<style>
+		 .btn:hover {
+    background-color: black;
+    color: white;
+}
+	</style>
 </head>
 
 <body ng-controller="mainCtrl" class="container" ng-app="app">
@@ -85,7 +91,7 @@ style="margin-bottom: 20px;"/><br>
   </select>
   <button id=">"> > </button>
   <br>-->
-<button ng-click="addItem(users)">Add</button>
+<button ng-click="addItem(users)" class="btn">Add</button>
 <table width="50%">
 
   <tr ng-repeat="us in userInfo">
