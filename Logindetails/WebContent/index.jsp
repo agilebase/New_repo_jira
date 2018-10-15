@@ -60,11 +60,11 @@
 <div class="col-sm-9" style="padding-top:30px">
 <b><p>Personal Details</p></b>
 Enter  Name: <input type="text" name="name" ng-model="users.name" placeholder="name"
-style="margin-bottom: 20px;"/><br>
+style="margin-bottom: 20px;" required/><br>
 Enter email: <input type="text" name="email" ng-model="users.email" placeholder="Email" 
-style="margin-bottom: 20px;"/><br>
+style="margin-bottom: 20px;" required /><br>
 contact No: <input type="text" name="phoneNo" ng-model="users.phoneNo" placeholder="phone Number" 
-style="margin-bottom: 20px;"/><br>
+style="margin-bottom: 20px;" required/><br>
 
 <b><p>Bank Details</p></b>
  Select bank: <select ng-model="users.edd" ng-options="x for x in bank" 
