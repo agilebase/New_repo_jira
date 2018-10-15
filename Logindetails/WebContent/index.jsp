@@ -59,11 +59,11 @@
 
 <div class="col-sm-9" style="padding-top:30px">
 <b><p>Personal Details</p></b>
-Enter  Name: <input type="text" name="name" ng-model="users.name" placeholder="name"
+Enter  Name: <input type="text" name="name"  placeholder="name"
 style="margin-bottom: 20px;" required/><br>
-Enter email: <input type="text" name="email" ng-model="users.email" placeholder="Email" 
+Enter email: <input type="text" name="email" placeholder="Email" 
 style="margin-bottom: 20px;" required /><br>
-contact No: <input type="text" name="phoneNo" ng-model="users.phoneNo" placeholder="phone Number" 
+contact No: <input type="text" name="phoneNo"  placeholder="phone Number" 
 style="margin-bottom: 20px;" required/><br>
 
 <b><p>Bank Details</p></b>
